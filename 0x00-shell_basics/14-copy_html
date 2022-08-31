@@ -1,0 +1,2 @@
+#!/bin/bash 
+cp *html ../  # copy all the html files in the current working dir to the parent working dir
