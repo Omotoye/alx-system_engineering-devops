@@ -1,2 +1,2 @@
 #!/bin/bash 
-cd $HOME 
+cd ~ # the ~ sign is a shutcut for HOME working directory
