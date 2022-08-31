@@ -1,0 +1,2 @@
+#!/bin/bash
+ln -s /bin/ls __ls__ # creating a symbolic link between /bin/ls and __ls__
