@@ -1,2 +1,2 @@
 #!/bin/bash 
-cd $HOME # the $HOME command returns the wording direction of the home
+cd $HOME 
