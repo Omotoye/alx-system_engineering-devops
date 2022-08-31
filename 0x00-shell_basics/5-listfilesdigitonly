@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -an # -a is like -l, but list numeric user and group IDs
