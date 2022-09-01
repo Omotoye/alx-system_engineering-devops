@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff _hello
+chown -h vincent:staff _hello # use the option -h when you want the change a symbolic link permission
