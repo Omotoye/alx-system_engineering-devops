@@ -1,0 +1,2 @@
+#!/bin/bash
+sed -i 's/A/Z/g' /dev/stdin | sed -i 's/c/e/g' /dev/stdin
