@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://www.alxafrica.com/" >
-<img src="img/alx-logo2.png" width="12%" height="12%" title="ALX Logo" alt="ALX Logo">
+<img src="img/alx-logo2.png" width="15%" height="15%" title="ALX Logo" alt="ALX Logo">
 </a>
 </div>
 
