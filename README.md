@@ -3,7 +3,7 @@
 <img src="img/alx-logo2.png" width="15%" height="15%" title="ALX Logo" alt="ALX Logo">
 </a>
 
----
+
 <h1 align="center">System Engineering DevOps        </><img src="img/alx-logo.png" width="4%" height="4%" title="ALX Logo" alt="ALX Logo">
 </div>
 
